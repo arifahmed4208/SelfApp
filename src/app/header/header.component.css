@@ -1,0 +1,24 @@
+.space{
+    flex: 1 1 auto;
+}
+
+button{
+    margin-right: .5em;
+}
+
+h1{
+    font-family: 'Zhi Mang Xing', cursive;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+
+img{
+    height: 40px;
+    width: 40px;
+    
+    margin-left: 5px;
+    border-radius: 50%;
+    
+    
+}
